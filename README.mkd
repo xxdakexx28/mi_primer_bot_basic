@@ -1,0 +1,21 @@
+# clonar git
+
+
+
+ # crear venv
+ ```bash
+     python -m venv bot_venv
+ ```
+ # activar el entorno virtual
+
+ ## windows (cmd)   "windows": unknown word.
+
+ ```bash
+     bot_venv\scripts\activate
+ ```
+ ## para linux  "linux": unknown word.
+ ```bash
+     source bot_venv/bin/activate
+ ```
+ 
+ # instarlar dep
