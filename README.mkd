@@ -1,8 +1,13 @@
 # clonar git
 
+https://github.com/xxdakexx28/mi_primer_bot_basic.git
 
+# crear env
+    ```bash
+     name= env
+     ```
 
- # crear venv
+# crear venv
  ```bash
      python -m venv bot_venv
  ```
@@ -19,3 +24,10 @@
  ```
  
  # instarlar dep
+  ```bash
+    pip install -r requirements.txt
+   ```
+# run proyect
+  ```bash
+     fastapi dev main.py
+ ```
